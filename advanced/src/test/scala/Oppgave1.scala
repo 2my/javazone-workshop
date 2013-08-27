@@ -2,7 +2,6 @@ import minitest._
 
 
 class Oppgave1 extends MiniTest {
-  /*
   //success
   test("2 + 2 == 4"){
     assertEq(2 + 2, 4)
@@ -17,7 +16,7 @@ class Oppgave1 extends MiniTest {
   test("3 + 2 == 4"){
     assertEq(3 + 2, 4)
   }
-  */
+
 }
 
 object RunOppgave1 extends Oppgave1 with App {
